@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 *.pth filter=lfs diff=lfs merge=lfs -text
+=======
+*.pth filter=lfs diff=lfs merge=lfs -text
+>>>>>>> 7418b5acfe5cb7cf194d1d1d0c8c28e095fd648c
